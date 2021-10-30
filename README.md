@@ -1,13 +1,10 @@
-<h1 align="center">Hi there, I'm 
-  
-  
-  [@Ebrahim Qeybi](https://github.com/EbrahimDev01) 
-  👋
-  </h1>
 
-<h3>
-  Statistics
-  </h3>
+  Hi there, I'm 
+  <a href="https://github.com/EbrahimDev01">Ebrahim Qeybi</a>
+  👋  
+
+
+## **Statistics** 
   
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=EbrahimDev01&show_icons=true&theme=dracula)](https://github.com/EbrahimDev01)
 
@@ -19,10 +16,8 @@
 
 [![EbrahimDev01's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EbrahimDev01&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/EbrahimDev01)
 
-<hr/>
+## **Connect with Me** 
 
-<h3>Reach To Me</h3> 
-  
 <a href="https://telegram.me/CyberEbrahim01">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram"/> 
  </a> 
