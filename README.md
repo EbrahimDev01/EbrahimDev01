@@ -16,7 +16,7 @@
 
 [![EbrahimDev01's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EbrahimDev01&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/EbrahimDev01)
 
-## **Connect with Me** <img src="Handshake.gif" width="25px"/>
+## **Connect with Me** <img src="Handshake.gif" width="85px"/>
 
 <a href="https://telegram.me/CyberEbrahim01">
   <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram"/> 
