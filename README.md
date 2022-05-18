@@ -5,14 +5,6 @@
 
 
 ## **Statistics** 
-  
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=EbrahimDev01&show_icons=true&theme=dracula)](https://github.com/EbrahimDev01)
-
-<br/>
-
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EbrahimDev01&layout=compact&theme=dracula&langs_count=10)](https://github.com/EbrahimDev01)
-
-<br/>
 
 [![EbrahimDev01's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EbrahimDev01&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/EbrahimDev01)
 
