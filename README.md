@@ -8,7 +8,7 @@
 
 [![EbrahimDev01's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EbrahimDev01&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/EbrahimDev01)
 
-## **Connect with Me** <img src="Handshake.gif" width="85px"/>
+## **Connect with Me** <img src="Handshake.gif" width="85"/>
 
 <a href="mailto:EbrahimDev01@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
