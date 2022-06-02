@@ -10,12 +10,14 @@
 
 ## **Connect with Me** <img src="Handshake.gif" width="85px"/>
 
-<a href="https://telegram.me/CyberEbrahim01">
-  <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram"/> 
- </a> 
 <a href="mailto:EbrahimDev01@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://twitter.com/CyberEbrahim01">
+<!--
+<a href="">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
+<a href="">
+  <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram"/> 
+ </a> 
+-->
